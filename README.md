@@ -7,7 +7,7 @@
 <a href="https://github.com/Giftedmaurice/Whois"><img src="https://img.shields.io/badge/python-3.11.3-orange.svg?style=style=flat-square" alt="Python Version"></a> 
 </p>
 
-![Capture](https://github.com/ERO-HACK/Whois/assets/72475141/a7e74882-6b95-4025-95c4-40b9e566a7cb)
+![Capture](https://github.com/Giftedmaurice/Whois/assets/72475141/a7e74882-6b95-4025-95c4-40b9e566a7cb)
 <br>
 
 # Tips..!
